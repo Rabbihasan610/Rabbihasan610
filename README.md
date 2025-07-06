@@ -1,4 +1,3 @@
-![👑 I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge](https://i.ibb.co/SN7JKkw/Banner.jpg)
 
 ### Hi, I'm Rabbi Hasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 👑 I'm Backend Developer <br>
