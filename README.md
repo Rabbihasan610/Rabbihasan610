@@ -1,68 +1,103 @@
+# Hi, I'm Rabbi Hasan 👋
 
-### Hi, I'm Rabbi Hasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
-👑 I'm Backend Developer <br>
-🖊️ Love to write code <br>
-🎤 Like to share my knowledge <br>
-📫 How to reach me ? mdrabbihasan610@gmail.com <be>
+### 🚀 Senior Backend Developer | Laravel Specialist | AI-Powered Web Solutions
 
-#### 👨‍💻 Professional Backend Developer | Laravel Specialist
+I’m a passionate **Backend Developer** from Bangladesh with strong expertise in building **scalable, secure, and high-performance web applications**.
 
-Welcome to my GitHub profile! I'm a dedicated backend developer based in Dhaka, with a strong focus on crafting robust web solutions using Laravel Framework. With a commitment to excellence and a passion for continuous improvement, I'm dedicated to delivering high-quality code and exceptional user experiences.
+I specialize in developing production-ready systems using **Laravel, PHP, MySQL, REST APIs, Nginx, Redis, Queue Systems, and VPS Deployment**.
 
-##### About Me:
+I focus on writing **clean, maintainable, optimized code** that solves real business problems.
 
-🔧 Expertise: Specializing in Laravel development, I have a proven track record of creating error-free websites and scalable applications. My attention to detail and performance optimization ensure reliable and efficient solutions.
+---
 
-🎯 Goal-driven: I approach every project with a strategic mindset, prioritizing clear objectives and measurable outcomes. Currently, I'm refining my skills to optimize the performance of responsive and progressive web applications.
+## 👨‍💻 About Me
 
-💡 Tech Enthusiast: Beyond Laravel, I'm actively expanding my knowledge in Vue.js, Nuxt Js, and MySQL, embracing new technologies to tackle complex challenges and drive innovation.
+- 🔥 Senior Backend Developer with strong Laravel expertise  
+- ⚡ Specialized in scalable architecture & performance optimization  
+- 🔒 Focused on secure backend systems and API development  
+- 🤖 AI integration using OpenAI, Gemini, Claude APIs  
+- 🌍 Love solving real-world business problems with code  
 
-##### What I Offer:
+---
 
-🤝 Collaboration: I thrive in collaborative environments and am keen to join teams committed to excellence and innovation. Let's work together to create impactful web solutions and elevate the digital experience.
+## 🚀 Tech Stack
 
-📚 Continuous Learning: With a passion for learning, I stay abreast of industry trends and best practices, always seeking opportunities to enhance my skills and stay ahead of the curve.
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-🌐 Global Perspective: As a global citizen, I value diversity and collaboration. Whether it's Laravel projects or ventures into the MERN Stack, I'm excited to connect with fellow developers and explore new possibilities.
-
-##### Let's Connect:
-
-📩 If you're interested in collaboration or have insights to share, I'd love to connect! Feel free to reach out, and let's explore opportunities to work together or exchange ideas.
-
-✈️ Exploration: Outside of coding, I enjoy traveling and discovering new cultures and landscapes. Let's share travel stories and recommendations—it's not all about code!
-
-
-### <a>👨‍💻 Skills & Experiance:</a>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![PHP8](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<br>
-** Like to use: **
+### Database & Cache
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### DevOps & Tools
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Favorite IDEs/Editors 
+### AI & Automation
+- OpenAI API  
+- Gemini API  
+- Claude API  
+- AI Agents / MCP Tools  
+- Automation Systems  
 
-![vs-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+---
 
-<br>
+## 💼 What I Build
 
-# Github Statistics
+✅ Enterprise Web Applications  
+✅ ERP / Management Systems  
+✅ E-commerce Platforms  
+✅ Payment Gateway Systems  
+✅ AI SaaS Applications  
+✅ REST APIs  
+✅ Real-time Gaming Systems  
+✅ Ticket Booking Platforms  
 
-![Visitor](https://komarev.com/ghpvc/?username=Rabbihasan610&color=blueviolet&style=flat-square) 
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
-![Last-commit](https://img.shields.io/github/last-commit/Rabbihasan610/Rabbihasan610?style=flat-square&color=blueviolet)
+---
 
+## 📈 GitHub Stats
 
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbihasan610&layout=compact&langs_count=7&theme=radical"/>
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=Rabbihasan610&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbihasan610&layout=compact&theme=radical)
+
+---
+
+## 🏆 Highlights
+
+- 🚀 70+ GitHub repositories  
+- ⚡ Production deployment experience  
+- 🔥 Strong problem-solving mindset  
+- 📊 Performance optimization specialist  
+- 🧠 Fast learner & AI-assisted developer  
+
+---
+
+## 🤝 Open to Collaborate
+
+I’m open to working on:
+
+- Laravel Projects  
+- SaaS Platforms  
+- AI Integrations  
+- Backend Architecture  
+- High Traffic Systems  
+
+---
+
+## 📫 Contact
+
+📧 Email: **mdrabbihasan610@gmail.com**
+
+---
+
+> “I build backend systems that scale, perform, and deliver business value.”
