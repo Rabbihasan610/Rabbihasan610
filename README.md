@@ -1,102 +1,184 @@
-# Hi, I'm Rabbi Hasan 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Md%20Rabbi%20Hasan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI%20Solutions&descAlignY=58&descSize=20" width="100%"/>
+</div>
 
-### 🚀 Senior Backend Developer | Laravel Specialist | AI-Powered Web Solutions
+<div align="center">
+  <a href="mailto:mdrabbihasan610@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mdrabbihasan610@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rabbihasan610">
+    <img src="https://img.shields.io/badge/GitHub-Rabbihasan610-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Consulting%20%26%20Contracts-007ACC?style=for-the-badge"/>
+</div>
 
-I’m a passionate **Backend Developer** from Bangladesh with strong expertise in building **scalable, secure, and high-performance web applications**.
+<br/>
 
-I specialize in developing production-ready systems using **Laravel, PHP, MySQL, REST APIs, Nginx, Redis, Queue Systems, and VPS Deployment**.
-
-I focus on writing **clean, maintainable, optimized code** that solves real business problems.
-
----
-
-## 👨‍💻 About Me
-
-- 🔥 Senior Backend Developer with strong Laravel expertise  
-- ⚡ Specialized in scalable architecture & performance optimization  
-- 🔒 Focused on secure backend systems and API development  
-- 🤖 AI integration using OpenAI, Gemini, Claude APIs  
-- 🌍 Love solving real-world business problems with code  
-
----
-
-## 🚀 Tech Stack
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Database & Cache
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### AI & Automation
-- OpenAI API  
-- Gemini API  
-- Claude API  
-- AI Agents / MCP Tools  
-- Automation Systems  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=High-Concurrency+Laravel+%26+Distributed+Systems;ZKTeco+Biometric+Push+(ADMS)+Protocol+Architect;Linux+Bare-Metal+%26+VPS+Hardening+(Nginx%2C+PM2%2C+Redis);AI+Pipelines+%7C+OpenAI%2C+Claude+%26+Gemini+Integrations" alt="Typing SVG" />
+</div>
 
 ---
 
-## 💼 What I Build
+### 👨‍💻 Executive Summary
 
-✅ Enterprise Web Applications  
-✅ ERP / Management Systems  
-✅ E-commerce Platforms  
-✅ Payment Gateway Systems  
-✅ AI SaaS Applications  
-✅ REST APIs  
-✅ Real-time Gaming Systems  
-✅ Ticket Booking Platforms  
+Results-driven **Senior Backend Engineer** with extensive experience architecting high-load web platforms, microservices, and enterprise automation pipelines. Specialized in deep **Laravel core optimization**, asynchronous queue workers, hardware-to-cloud protocols (biometrics), GIS/routing logic, and complete Linux server infrastructure. Proven track record delivering 50+ enterprise and mission-critical production systems.
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Core Engineering & System Capabilities
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rabbihasan610&show_icons=true&theme=radical)
+### 🧰 Tech Stack & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbihasan610&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OOP_%26_Design_Patterns-black?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database & Caching</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Eloquent_Optimization-F05340?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Linux</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux_Ubuntu/Debian-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supervisor-3C4858?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI & Geospatial</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Maps_Routing_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend & UI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Highlights
+### 💡 Featured Architectural Highlights & Private Solutions
 
-- 🚀 70+ GitHub repositories  
-- ⚡ Production deployment experience  
-- 🔥 Strong problem-solving mindset  
-- 📊 Performance optimization specialist  
-- 🧠 Fast learner & AI-assisted developer  
+<details open>
+<summary><b>1. National Defence College (NDC) — Inventory & Asset Governance System</b></summary>
+<br/>
+<ul>
+  <li><b>Scope:</b> Highly sensitive military educational facility inventory tracking and lifecycle governance.</li>
+  <li><b>Infrastructure:</b> Complete on-premise/bare-metal Linux setup with hardened security perimeters, strict RBAC, automated cold-storage backup routines, and Nginx reverse proxy tuning.</li>
+  <li><b>Engineering:</b> Zero-loss audit trails, high-volume item ledger verification, and low-latency database queries.</li>
+</ul>
+</details>
+
+<details open>
+<summary><b>2. HalalFresh Canada — High-Efficiency Route Engine & Logistics Backend</b></summary>
+<br/>
+<ul>
+  <li><b>Platform:</b> <a href="https://dev.halalfresh.ca" target="_blank">dev.halalfresh.ca</a></li>
+  <li><b>Core Feature:</b> Integrated Google Maps Distance Matrix and Direction APIs to calculate optimal delivery routes, reducing dispatch delays across zoned territories.</li>
+  <li><b>Architecture:</b> Event-driven order assignment, dynamic delivery window calculations, and multi-vendor checkout pipelines.</li>
+</ul>
+</details>
+
+<details open>
+<summary><b>3. Biometric IoT Hub — ZKTeco ADMS Push Protocol Listener</b></summary>
+<br/>
+<ul>
+  <li><b>Engineering:</b> Reverse-engineered and implemented direct HTTP ADMS push server handling continuous real-time payload bursts from physical ZKTeco attendance units.</li>
+  <li><b>Fault Tolerance:</b> Decoupled incoming attendance pings using Redis queue brokers and background workers (Supervisor) to avoid dropped packets during shift peaks.</li>
+</ul>
+</details>
 
 ---
 
-## 🤝 Open to Collaborate
+### 🌐 Selected Production Work & Live Deployments
 
-I’m open to working on:
+#### 🏢 Enterprise Platforms & B2B Incubators
+| Platform | Focus Area | Live Link |
+| :--- | :--- | :--- |
+| **Aqarmodon** | Property Management System | [aqarmodon.com](https://aqarmodon.com/) \| [area4u](https://area4u.economicinc.com/) |
+| **Amlaek & Experts** | Real Estate & Professional Services Suite | [amlaek.com](https://amlaek.com/) \| [experts](https://amlaekexperts.economicinc.com/) |
+| **Economic Inc Group** | Multi-brand Corporate & Service Incubator | [economicinc.com](https://economicinc.com/) |
+| **Export Incubator** | Product Export & Supply Chain Operations | [exportincu.economicinc.com](https://exportincu.economicinc.com/) |
+| **Franchise Hub** | Franchise Distribution & Service Engine | [franchise.economicinc.com](https://franchise.economicinc.com/) |
+| **Safincu** | B2B Wholesale Commerce & Service Broker | [safincu.economicinc.com](https://safincu.economicinc.com/) |
+| **AsougPay** | Digital Escrow, Settlement & Investment | [asougpay.teincu.com](https://asougpay.teincu.com/) |
+| **Clincu & Cloud Services** | Hub Management, Storage & Cloud Services | [clincu.teincu.com](https://clincu.teincu.com/) \| [cloud.teincu.com](https://cloud.teincu.com/) |
+| **Cyincu & Indcu** | Network Security, Packaging & Industrial Ops | [cyincu.teincu.com](https://cyincu.teincu.com/) \| [indcu.teincu.com](https://indcu.teincu.com/) |
+| **HR Incu & Serv Incu** | Enterprise Manpower & Labour Dispatch | [hrincu.com](https://hrincu.com/) \| [servincu.hrincu.com](https://servincu.hrincu.com/) |
+| **Traincu & Intellect Spaces**| Property Exchange & Coworking Management | [demo.traincu.com](https://demo.traincu.com/) \| [intellectspaces](https://intellectspaces.traincu.com/) |
+| **Mosanf & Tajrgo** | Multi-Vendor Marketplaces & B2B/B2C Portals | [mosanf.com](https://demo.mosanf.com/) \| [tajrgo](https://tajrgo.taleincu.com/) |
 
-- Laravel Projects  
-- SaaS Platforms  
-- AI Integrations  
-- Backend Architecture  
-- High Traffic Systems  
+#### 🏥 Medical, Healthcare & Specialized Systems
+| Platform | Domain | Live Link |
+| :--- | :--- | :--- |
+| **Aiyat Medical Core** | Hospital Billing, Clinical Tests & Patient EHR | [aiyaat.com](http://aiyaat.com/) |
+| **Aiyat Pharmacy** | Pharmaceutical Inventory & Dispensing Engine | [newpharmacy.aiyaat.com](http://newpharmacy.aiyaat.com/) |
+| **Takhlas** | Mental Health & Clinical Therapy Portal | [takhlas.teincu.com](https://takhlas.teincu.com/) |
+| **Dr. Nazmul Islam** | Specialist Consultant Practice & Tele-registry | [drnazmulhasan.com](https://drnazmulhasan.com/) |
+
+#### 🏛️ Governance, Civic Tech & Logistics
+| Platform | Focus Area | Live Link |
+| :--- | :--- | :--- |
+| **Trust Agency** | Government Hajj Logistics & Pilgrimage Services | [trust.economicinc.com](https://trust.economicinc.com/) |
+| **Kamalbazar UP** | Civic Citizen Relationship & Automated Certificates | [kamalbazarup.com](https://kamalbazarup.com/) |
+| **Silam UP & Uniondesk**| Digital Local Government Parishad Infrastructure | [silamup.com](https://silamup.com/) \| [uniondesk.xyz](https://uniondesk.xyz/) |
+| **E-Tickets BD** | Inter-District Transit Ticketing Platform | [etickets.hrlogisticsbd.com](https://etickets.hrlogisticsbd.com/) |
+| **HR Logistics** | Parcel Delivery & Courier Operations Engine | [hrlogisticsbd.com](https://hrlogisticsbd.com/) |
+| **Energyfood & Rafiya** | Factory Production ERP & Multi-Register POS | [energyfood.xyz](https://energyfood.xyz/) \| [rafiafashionworld](https://rafiafashionworld.com/) |
 
 ---
 
-## 📫 Contact
+### 📊 Engineering Activity & Metrics
 
-📧 Email: **mdrabbihasan610@gmail.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabbihasan610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbihasan610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbihasan610&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🤝 Let's Build Something Robust
+
+Whether you need to architect an asynchronous backend from scratch, optimize database bottlenecks, integrate IoT biometric hardware, or deploy scalable cloud applications:
+
+- 💬 Let's talk architecture: **[mdrabbihasan610@gmail.com](mailto:mdrabbihasan610@gmail.com)**
+- 💻 Code & Contributions: **[github.com/Rabbihasan610](https://github.com/Rabbihasan610)**
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=100&section=footer" width="100%"/>
+</div>
 
 ---
 
