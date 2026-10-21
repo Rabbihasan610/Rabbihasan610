@@ -2,16 +2,35 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Md%20Rabbi%20Hasan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI%20Solutions&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
+
 <div align="center">
-  <a href="mailto:mdrabbihasan610@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdrabbihasan610@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://github.com/Rabbihasan610">
-    <img src="https://img.shields.io/badge/GitHub-Rabbihasan610-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Rabbihasan610-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Consulting%20%26%20Contracts-007ACC?style=for-the-badge"/>
+  <a href="https://wa.me/8801710528972">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://web.facebook.com/rabbihasan610">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-rabbi-hasan-2229bb205">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://rabbihasan.site">
+    <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="mailto:mdrabbihasan610@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mdrabbihasan610%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/8801710528972">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Projects%20%26%20Contracts-007ACC?style=for-the-badge" alt="Available for Projects and Contracts"/>
+  </a>
+  <br/>
+  <a href="https://wa.me/8801710528972">
+    <img src="https://img.shields.io/badge/Hire%20Me-Laravel%20Developer-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Hire Me - Laravel Developer"/>
+  </a>
 </div>
+
 
 <br/>
 
